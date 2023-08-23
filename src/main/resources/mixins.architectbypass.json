@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.chromanyan.architectbypass.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.architectbypass.refmap.json",
+  "mixins": [
+    "MixinArchitectFavorsAll"
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8"
+}
