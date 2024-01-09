@@ -62,12 +62,12 @@ Because I don't like the idea of gameplay altering items which are only equipabl
     modId="minecraft"
     mandatory=true
 # This version range declares a minimum of the current minecraft version up to but not including the next major version
-    versionRange="[1.19.2,1.20)"
+    versionRange="[1.19.2,)"
     ordering="NONE"
     side="BOTH"
 [[dependencies.architectbypass]]
     modId="enigmaticlegacy"
     mandatory=true
-    versionRange="[2.26,2.27)"
+    versionRange="[2.26,)"
     ordering="NONE"
     side="BOTH"
